@@ -1,0 +1,31 @@
+.board {
+  display:flex;
+  justify-content: left;
+  flex-flow: row wrap;
+  background-color: #f6ce46;
+
+}
+.note {
+  color: #000;
+  background-color: #ffff15;
+  font-size:20px;
+  width: 300px;
+  min-height: 250px;
+  margin: 10px;
+}
+
+
+
+.note-btn {
+
+  margin-top: 160px;
+}
+.btn {
+   float:right;
+   margin-right: 5px;
+   margin-bottom:10px;
+   align-self: flex-end;
+}
+p {
+  padding: 5px;
+}
